@@ -23,7 +23,7 @@
 * 🌱 I’m currently learning **Node.js**.
 * 👯 I’m looking to collaborate on **WEB projects**.
 * 🤔 I’m looking for help with **AI and ML**.
-* 📫 How to reach me: **[im@stillworkingonit.com]**
+* 📫 How to reach me: **kaveeshatmdss@gmail.com**
 * ⚡ Fun fact: **it doesn't work, and I don't know why.**.
 
 <br/> ---
